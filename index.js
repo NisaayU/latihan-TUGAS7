@@ -21,4 +21,5 @@ switch (command) {
         break;
     default:
         throw Error("Invalid command");
+        
 }
